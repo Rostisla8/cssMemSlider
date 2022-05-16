@@ -117,7 +117,7 @@ label, a{
 #switch4:checked ~ #active label:nth-child(4),
 #switch5:checked ~ #active label:nth-child(5){
 	background: #85acbd;
-	border-color: #18a3dd !important;
+	border-color: #2092c2 !important;
 }
 
 #slides .image{ 
